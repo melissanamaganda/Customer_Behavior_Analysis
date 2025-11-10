@@ -70,7 +70,9 @@ The workflow combines **Python-based data preprocessing** and **SQL-driven busin
 ---
 
 ## Dashboard Preview
-
+<p align="center">
+  <img src="./Customer Behavior Dashboard Final.PNG" alt="Customer Behavior Dashboard" width="600"/>
+</p>
 
 *Power BI dashboard visualizing customer segments, sales trends, and loyalty metrics.*
 
